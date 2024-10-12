@@ -1,0 +1,14 @@
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/bin/Debug/net8.0/CSCalculator
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/bin/Debug/net8.0/CSCalculator.deps.json
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/bin/Debug/net8.0/CSCalculator.runtimeconfig.json
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/bin/Debug/net8.0/CSCalculator.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/bin/Debug/net8.0/CSCalculator.pdb
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.AssemblyInfoInputs.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.AssemblyInfo.cs
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.csproj.CoreCompileInputs.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/refint/CSCalculator.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.pdb
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.genruntimeconfig.cache
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/ref/CSCalculator.dll
