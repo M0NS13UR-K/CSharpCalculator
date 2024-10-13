@@ -12,3 +12,4 @@
 /Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.pdb
 /Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.genruntimeconfig.cache
 /Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/ref/CSCalculator.dll
+/Users/krishna_chitta/gitportfolio/csharp/CSharpCalculator/CSCalculator/obj/Debug/net8.0/CSCalculator.sourcelink.json
