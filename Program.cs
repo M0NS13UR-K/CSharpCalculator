@@ -12,9 +12,12 @@ class Program
         StartCalculator();
     }
 
+    static List<double> results = new List<double>();
     static void StartCalculator()
     {
-        Console.WriteLine("Enter the first number");
+        while(true)
+        {
+            Console.WriteLine("Enter the first number");
         double num1 = Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine("Enter the second number");
@@ -24,8 +27,20 @@ class Program
         string operation = Console.ReadLine();
 
         double result = PerformOperation(num1, num2, operation);
+        results.Add(result);
 
         Console.WriteLine($"result =  {result}");
+
+        Console.WriteLine("Do you want to start a new calculation? Yes/No");
+        string Continuecalc = Console.ReadLine().ToLower();
+        if(Continuecalc != "yes") break;
+        }
+
+        Console.WriteLine("Previous results are:");
+        foreach(var a in results){
+            Console.WriteLine( a );
+        }
+        
     }
     static double Add(double a,double b) => a+b;
     static double Sub(double a, double b) => a-b;
@@ -41,7 +56,8 @@ class Program
             "*" => Mul(a,b),
             "/" => Div(a,b),
             "%" => Mod(a,b),
-            _ => 0
+            _ => throw new InvalidOperationException("Invalid Operation")
+
         };
     }
 }

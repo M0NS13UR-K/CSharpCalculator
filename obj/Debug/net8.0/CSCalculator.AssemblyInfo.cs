@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cdb789b80f7c6ef2865f3df632ae12d3af535a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc5224717dd267ab56780c841445a23d8f6b6e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
